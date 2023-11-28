@@ -1,5 +1,15 @@
-### Hi there 👋
+## Hi everyone, I'm Daiarah 👋
 
+- 🌱 I’m currently studying Computer Engineering in UTFPR - Campus Curitiba
+
+- 📫 How to reach me: **daiarah@alunos.utfpr.edu.br**
+
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daiarah/) 
+  
 <!--
 **daiarah/daiarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
