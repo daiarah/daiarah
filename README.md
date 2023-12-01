@@ -1,6 +1,8 @@
 ## Hi everyone, I'm Daiarah 👋
 
-- 🌱 I’m currently studying Computer Engineering in UTFPR - Campus Curitiba
+- 🌱 I’m currently learning C# and React
+
+- 🔭 I’m currently studying Computer Engineering in UTFPR - Campus Curitiba
 
 - 📫 How to reach me: **daiarah@alunos.utfpr.edu.br**
 
