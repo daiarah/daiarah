@@ -1,6 +1,6 @@
 ## Hi everyone, I'm Daiarah 👋
 
-- 🌱 I’m currently learning C# and React
+- 🌱 I’m a BackEnd Sofware Developer, currently working with Java and SpringBoot
 
 - 🔭 I’m currently studying Computer Engineering in UTFPR - Campus Curitiba
 
